@@ -4,8 +4,6 @@
 
 [English](#english) · [Deutsch](#deutsch)
 
-![Hero image: product line-up](media/hero.jpg)
-
 ---
 
 ## English
@@ -19,12 +17,6 @@ Co-founded a small 3D-printing business and took **20+ aircraft models** from id
 - **Production**: ran FDM and DLP printers (Bambu Lab, Creality, Anycubic) for batch production
 - **Process improvement**: optimised production workflows and print settings to cut failures and time per part
 - **Machine reliability**: maintenance, calibration and troubleshooting of the printer fleet
-
-### Gallery
-<!-- Add 4-8 photos: CAD renders, printing in progress, finished models, packaging -->
-| | | |
-|---|---|---|
-| ![](media/01.jpg) | ![](media/02.jpg) | ![](media/03.jpg) |
 
 ### Skills shown
 `product development` `DfAM` `FDM` `DLP/resin` `Fusion 360` `SolidWorks` `Blender` `production planning` `process optimisation` `e-commerce`
